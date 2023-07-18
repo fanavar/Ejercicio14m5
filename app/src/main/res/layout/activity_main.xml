@@ -29,7 +29,7 @@
         android:layout_marginBottom="64dp"
         android:ems="10"
         android:hint="Monto"
-        android:inputType="text"
+        android:inputType="number"
         android:minHeight="48dp"
         android:textColorHint="#100A0A"
         app:layout_constraintBottom_toTopOf="@+id/buttonOk"
